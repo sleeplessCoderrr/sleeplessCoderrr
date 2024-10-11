@@ -147,6 +147,6 @@ I'm constantly diving into the fascinating world of algorithms, data structures,
   <img
     align="left"
     alt="sleeplesscoderrr"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=sleeplessCoderrrl&locale=en&theme=merko&layout=compact" />
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=sleeplessCoderrr&locale=en&theme=merko&layout=compact" />
 </p>
 
