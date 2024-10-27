@@ -142,11 +142,8 @@ I'm constantly diving into the fascinating world of algorithms, data structures,
       width="40" />
   </a>
   </p>
-
-<p>
-  <img
-    align="left"
-    alt="sleeplesscoderrr"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=sleeplessCoderrr&locale=en&theme=merko&layout=compact" />
 </p>
+
+![](https://github.com/sleeplessCoderrr/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/sleeplessCoderrr/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 
