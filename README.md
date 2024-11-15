@@ -33,6 +33,7 @@ I'm constantly diving into the fascinating world of algorithms, data structures,
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
 
 ### 📊 Stats
 ![](https://raw.githubusercontent.com/sleeplessCoderrr/github-stats/master/generated/overview.svg#gh-dark-mode-only)
